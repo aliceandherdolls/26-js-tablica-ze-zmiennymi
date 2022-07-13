@@ -4,7 +4,7 @@ let four = 4;
 
 let thirty = 30;
 
-let array = [7, 4, 30];
+let array = [seven, four, thirty];
 
 
 
